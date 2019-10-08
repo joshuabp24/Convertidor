@@ -1,0 +1,6 @@
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\bin\Debug\Convertidor.exe.config
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\bin\Debug\Convertidor.exe
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\bin\Debug\Convertidor.pdb
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\obj\Debug\Convertidor.csprojAssemblyReference.cache
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\obj\Debug\Convertidor.exe
+C:\Users\jOSHUA\source\repos\Convertidor\Convertidor\obj\Debug\Convertidor.pdb
